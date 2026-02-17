@@ -1,0 +1,9 @@
+Estas são as sugestões que foram dadas ao projeto
+
+[1] - Remover o regulador de tensão linear L7805 e deixar no 5V fixos da fonte
+[2] - As linha com os 4 push buttons devem ficar na "lateral"
+[3] - Os dois displays de 7 segmentos devem mudar de posição
+[4] - Remover o máximo possível os espaços vazios
+      e por consequência reduzir o tamanho da placa
+[4] - Poderá utilizar as duas camadas para realizar as trilhas
+      tanto Foward quanto "Backward"

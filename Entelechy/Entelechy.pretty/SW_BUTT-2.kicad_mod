@@ -1,0 +1,245 @@
+(footprint "SW_BUTT-2"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.175 -4.135 0)
+		(layer "F.SilkS")
+		(uuid "e27c0916-3e30-4ed3-afdc-6d330c337e90")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SW_BUTT-2"
+		(at 0 4 0)
+		(layer "F.Fab")
+		(uuid "fac69f23-93aa-49c5-9e2b-74784f083874")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "87e56e69-d339-496e-9f79-7b880e91fb58")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "be552ff6-4785-4187-81c0-90ec48552ca5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -3 -3)
+		(end 3 -3)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7b57bcb2-05b4-4ff9-b409-4720f898b0f7")
+	)
+	(fp_line
+		(start -3 -1.075)
+		(end -3 -3)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b0db1adf-4175-474b-a703-ec8916e25953")
+	)
+	(fp_line
+		(start -3 3)
+		(end -3 1.075)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "93210569-c4b1-4a26-a148-595f11f8447c")
+	)
+	(fp_line
+		(start 3 -3)
+		(end 3 -1.075)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "508f4555-18a8-4baf-a766-4ea3d3ee0a07")
+	)
+	(fp_line
+		(start 3 1.075)
+		(end 3 3)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "eb561e47-5ffa-49a6-a0ae-99bc5c652c06")
+	)
+	(fp_line
+		(start 3 3)
+		(end -3 3)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f1851e32-cd8e-41e3-8bb5-236e9822e331")
+	)
+	(fp_circle
+		(center -3.8 0)
+		(end -3.7 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "1a5eb003-8d97-457b-94d2-2ae17edc01e0")
+	)
+	(fp_line
+		(start -3.504 -3.25)
+		(end 3.504 -3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "25f22a8f-9164-453f-8f2e-204878d7f68a")
+	)
+	(fp_line
+		(start -3.504 3.25)
+		(end -3.504 -3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "06d99dff-2d75-464f-a120-cc39db865e12")
+	)
+	(fp_line
+		(start 3.504 -3.25)
+		(end 3.504 3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f12e54d4-8502-4bb1-9ee0-bac42ee1535a")
+	)
+	(fp_line
+		(start 3.504 3.25)
+		(end -3.504 3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3c6e6c74-9276-4d41-9020-52bf54580a0b")
+	)
+	(fp_line
+		(start -3 -3)
+		(end -3 3)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f04e3f29-6f5b-45e9-ad35-97acefdb29c3")
+	)
+	(fp_line
+		(start -3 3)
+		(end 3 3)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "34d18591-794f-4262-9f6b-a61e9c1af5ef")
+	)
+	(fp_line
+		(start 3 -3)
+		(end -3 -3)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "335f32c5-11d6-4aac-8a35-47149e99fc9b")
+	)
+	(fp_line
+		(start 3 3)
+		(end 3 -3)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "410e7374-c605-4f29-9efc-518e23302ba9")
+	)
+	(fp_circle
+		(center -3.8 0)
+		(end -3.7 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "be6b596e-2292-4564-80bf-d4f8b5385d1b")
+	)
+	(pad "1" thru_hole circle
+		(at -2.5 0)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "ecf29af5-9183-4616-b88a-7286dc911efe")
+	)
+	(pad "2" thru_hole circle
+		(at 2.5 0)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "727c159c-1ecb-44a5-b45b-03db1bbc8beb")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/Entelechy_3D/Tactile Switches TH (6mm×6mm -2pin) Red.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)

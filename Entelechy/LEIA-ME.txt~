@@ -1,0 +1,18 @@
+[Track Class]
+0.800mm
+
+[Via Class]
+1.6mm 0.9mm hole
+
+Plugins | [https://www.youtube.com/watch?v=LB4SqPW2E0c] <- Vídeo de demonstração
+
+[1] - board2pdf - converte camadas do editor de pci da placa para pdf
+[2] - roundtracks - arredonda as trilhas da pcb, tornando-as menos sharpness
+[3] - html bom interactive - gera uma página html interactiva com base no BOM da pcb e no editor de pci dela
+
+
+E H C D G A B F | [7-SEG]
+^ ^ ^ ^ ^ ^ ^ ^ 
+A B C D E F G H | [74HC595]
+
+https://www.youtube.com/watch?v=_92wWoXCu5U&list=PLlJpeJ0GkQ5eU8ySELiG42N3QrOtWKdAT&index=39
