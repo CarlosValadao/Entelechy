@@ -1,7 +1,5 @@
 # 🚀 Entelechy Project
 
-<img width="1644" height="938" alt="Entelechy_Front" src="https://github.com/user-attachments/assets/206b5c70-b7f6-472e-88c1-24b01ebc94a4" />
-
 https://github.com/user-attachments/assets/394cbacd-c1a7-4c5a-b76d-4e919793d7d3
 
 O **Entelechy** é uma placa de propósito geral baseado na arquitetura **8051**.
